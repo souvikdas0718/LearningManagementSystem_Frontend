@@ -1,0 +1,12 @@
+body { 
+    background: rgb(36,144,165);
+    /* background: -moz-linear-gradient(45deg, rgba(36,144,165,1) 29%, rgba(0,212,255,1) 67%);
+    background: -webkit-linear-gradient(135deg, rgba(36,144,165,1) 29%, rgba(0,212,255,1) 67%); */
+    background: linear-gradient(90deg, rgba(36,144,165,1) 29%, rgba(0,212,255,1) 67%);
+}
+
+* {
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* color: #ffffff; */
+}

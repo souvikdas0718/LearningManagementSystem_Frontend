@@ -1,0 +1,9 @@
+.chat-div {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 85vh;
+}
+
+.border-div{
+    border-top: 1px solid ;
+}
